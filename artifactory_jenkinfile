@@ -1,3 +1,7 @@
+
+https://medium.com/@vijaypatel_82963/integrating-jenkins-pipeline-with-artifactory-995ced25a9a
+
+
 pipeline {
   agent any 
   stages{
